@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Branding & Storytelling
+## 🌀 Curiosidade Recursiva
 
 Imagine um **livro infinito** ♾️: cada página é uma linha de código, um insight, uma falha que me ensina mais do que qualquer acerto. Esse sou eu: curiosidade sem fim, um mix de **autismo + TDAH** que me faz fuçar em tudo, abandonar e retomar, aprender rápido e amar processos tão caóticos quanto criativos.
 
@@ -14,7 +14,7 @@ Imagine um **livro infinito** ♾️: cada página é uma linha de código, um i
 
 ---
 
-## 🚀 Pitch para Recrutadores
+## 🧬 Meu Algoritmo Base
 
 - **Quem sou**: Engenheira de Dados & IA em formação, apaixonada por números, lógica e impacto social.  
 - **Destaques profissionais**:  
@@ -28,7 +28,7 @@ Imagine um **livro infinito** ♾️: cada página é uma linha de código, um i
 
 ---
 
-## 🧭 Estrutura do Repositório
+## 📂 Neurônios em Pastas
 
 Cada disciplina é uma **fase dessa minha jornada** — não linear, mas sempre evolutiva:
 
@@ -56,7 +56,7 @@ Cada disciplina é uma **fase dessa minha jornada** — não linear, mas sempre 
 
 ---
 
-## 🛠️ Tech Stack & Hard Skills
+## 🧠 Stack Cognitiva
 
 | Categoria              | Ferramentas & Bibliotecas                             |
 |------------------------|--------------------------------------------------------|
@@ -71,13 +71,13 @@ Cada disciplina é uma **fase dessa minha jornada** — não linear, mas sempre 
 
 ---
 
-## 💡 Insight Pessoal
+## 🔍 Entre Erros e Epifanias
 
 > “Me sinto **mais eu mesma** quando estou mergulhada em ideias — foi na **pandemia** que descobri o poder da minha solidão produtiva. Enquanto muitos lutavam com o isolamento, eu encontrei paz, foco e minhas melhores epifanias.”
 
 ---
 
-## 🌱 Propósito & Impacto
+## 🌌 Por Que Eu Faço o Que Faço
 
 Se eu tivesse **tempo e dinheiro infinitos**, viajaria o mundo para:
 1. **Estudar** novos ecossistemas de dados  
@@ -86,7 +86,7 @@ Se eu tivesse **tempo e dinheiro infinitos**, viajaria o mundo para:
 
 ---
 
-## 📞 Contato
+## 📡 Chamando Roberta…
 
 | 📧 Email                        | 📱 WhatsApp               | 🌐 Rede Profissional                       |
 |---------------------------------|---------------------------|------------------------------|
@@ -97,7 +97,7 @@ Se eu tivesse **tempo e dinheiro infinitos**, viajaria o mundo para:
 
 ---
 
-## ⚖️ Licença
+## ⚖️ Permissão Criativa
 
 Este repositório está licenciado sob a **MIT License** + **Creative Commons CC BY-NC 4.0**.  
 Use, remix e dê crédito — mas sem fins comerciais, ok? 💜
